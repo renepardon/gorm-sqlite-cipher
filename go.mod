@@ -1,4 +1,4 @@
-module github.com/hinha/gorm-sqlite-cipher
+module github.com/renepardon/gorm-sqlite-cipher
 
 go 1.15
 
